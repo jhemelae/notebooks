@@ -1,0 +1,6 @@
+name: notebooks
+channels:
+  - defaults
+dependencies:
+  - scipy
+
