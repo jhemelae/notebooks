@@ -2,5 +2,7 @@ name: notebooks
 channels:
   - defaults
 dependencies:
-  - scipy
+  - python=3.7
+  - numpy
+  - matplotlib
 
